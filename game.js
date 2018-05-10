@@ -49,6 +49,7 @@ function setRandomCoin(game){
         var hitPlayer = hitCoin(game);
         collided = hitWall || hitPlayer;
     }
+    //comment line
 }
 
 function hitCoin(game){
